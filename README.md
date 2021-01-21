@@ -34,5 +34,5 @@ Answer: accommodates, number of bedrooms, number of beds, and cleaning fee
 
 ## Acknowledgements and other sources
 This notebook (https://www.kaggle.com/suveesh/airbnb-boston-data-anaysis-and-price-prediction) by Suveesh helped me a lot, I took some ideas from it.
-And I have a post on Medium where I talked in brief about this project.
+And I have a post on Medium where I talked in brief about this project.  
 This is a project for Udacity DS course and the data used is from Kaggle.
