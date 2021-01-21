@@ -1,4 +1,8 @@
 # Airbnb-Udacity-project  
+## Motivation
+The project is about Airbnb pricing for Boston and Seattle cities.
+Knowing what time of the year has the lowes pricing, and even making a model to predict the price is the most exciting thing that made me pursue this project.
+
 ## Installation
 Using Anaconda is more than enough for executing this project.
 #### Libraries needed:
@@ -7,10 +11,6 @@ Using Anaconda is more than enough for executing this project.
 * matplotlib
 * seaborn
 * sklearn
-
-## Motivation
-The project is about Airbnb pricing for Boston and Seattle cities.
-Knowing what time of the year has the lowes pricing, and even making a model to predict the price is the most exciting thing that made me pursue this project.
 
 ## File descriptions
 * ".ipynb_checkpoints" is for jupyter notebook.
@@ -34,5 +34,5 @@ Answer: accommodates, number of bedrooms, number of beds, and cleaning fee
 
 ## Acknowledgements and other sources
 This notebook (https://www.kaggle.com/suveesh/airbnb-boston-data-anaysis-and-price-prediction) by Suveesh helped me a lot, I took some ideas from it.
-And I have a post on Medium where I talked in brief about this project.  
+And I have a post on Medium where I talked in brief about this project.<br/>  
 This is a project for Udacity DS course and the data used is from Kaggle.
